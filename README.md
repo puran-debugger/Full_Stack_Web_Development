@@ -44,6 +44,7 @@ Front_end Web UI Frameworks and tools
     - PHP, Java, ASP.NET, Ruby, Python
     
 **Three Tier Architecture**
+
 ![](web2.png)
 
 **Traditional Web Development v.s. Full Stack JavaScript Development**
